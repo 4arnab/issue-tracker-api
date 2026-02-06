@@ -1,0 +1,23 @@
+[
+  {
+    "id": "e6724331-a872-4b2e-9410-1b2503a5151b",
+    "title": "new issue from update function",
+    "description": "issue closed and solved",
+    "status": "closed",
+    "priority": "low"
+  },
+  {
+    "id": "e3d0617e-06d3-4354-8c25-44bf5f5fa286",
+    "title": "string",
+    "description": "string",
+    "status": "open",
+    "priority": "medium"
+  },
+  {
+    "id": "a49c08f1-2670-4d81-98e6-d6bf676122d7",
+    "title": "string",
+    "description": "string",
+    "status": "open",
+    "priority": "medium"
+  }
+]
